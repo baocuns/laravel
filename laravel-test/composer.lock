@@ -98,8 +98,8 @@
                 "Mypackage"
             ],
             "support": {
-                "issues": "https://github.com/bao-rin/mypackage/issues",
-                "source": "https://github.com/bao-rin/mypackage/tree/main"
+                "issues": "https://github.com/baocuns/mypackage/issues",
+                "source": "https://github.com/baocuns/mypackage/tree/main"
             },
             "time": "2022-03-26T02:43:44+00:00"
         },
@@ -5167,6 +5167,47 @@
             "time": "2022-03-02T12:42:23+00:00"
         },
         {
+            "name": "tailieuweb/mypackage",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tailieuweb/mypackage.git",
+                "reference": "071250e444f58ee406ad5a1a815d5d33323c78ac"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tailieuweb/mypackage/zipball/071250e444f58ee406ad5a1a815d5d33323c78ac",
+                "reference": "071250e444f58ee406ad5a1a815d5d33323c78ac",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Tailieuweb\\Mypackage\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "foostart",
+                    "email": "foostart.com@gmail.com"
+                }
+            ],
+            "description": "mypackage",
+            "keywords": [
+                "Mypackage"
+            ],
+            "support": {
+                "issues": "https://github.com/tailieuweb/mypackage/issues",
+                "source": "https://github.com/tailieuweb/mypackage/tree/main"
+            },
+            "time": "2022-03-26T01:27:52+00:00"
+        },
+        {
             "name": "tijsverkoyen/css-to-inline-styles",
             "version": "2.2.4",
             "source": {
@@ -7943,7 +7984,8 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "bao-rin/mypackage": 20
+        "bao-rin/mypackage": 20,
+        "tailieuweb/mypackage": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,
