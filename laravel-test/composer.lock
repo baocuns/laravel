@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a53e38d2faf013090bf47c62454f83dc",
+    "content-hash": "3c7fcf873c12aea7822f74ff41c47505",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -67,12 +67,12 @@
             "version": "dev-main",
             "source": {
                 "type": "git",
-                "url": "https://github.com/bao-rin/mypackage.git",
+                "url": "https://github.com/baocuns/mypackage.git",
                 "reference": "ea6f43e1abb759657a0905c662bab00e965181bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bao-rin/mypackage/zipball/ea6f43e1abb759657a0905c662bab00e965181bb",
+                "url": "https://api.github.com/repos/baocuns/mypackage/zipball/ea6f43e1abb759657a0905c662bab00e965181bb",
                 "reference": "ea6f43e1abb759657a0905c662bab00e965181bb",
                 "shasum": ""
             },
